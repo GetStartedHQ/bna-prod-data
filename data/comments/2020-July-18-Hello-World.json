@@ -38,5 +38,13 @@
     "content": "Hello. This is a comment.",
     "createdAt": 1598885451125,
     "id": "UhAP4dxfCo04gd_MHtQrFAxb0abZZZ"
+  },
+  {
+    "userId": "github-25902285",
+    "name": "Shubham Jain",
+    "avatar": "https://avatars.githubusercontent.com/u/25902285?v=4",
+    "content": "This is a test comment",
+    "createdAt": 1625330948311,
+    "id": "3Z1Z3U11QLDyGbUDFj36k_sknnhbUG"
   }
 ]
